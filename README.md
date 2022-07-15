@@ -1,4 +1,4 @@
-# Generative-episodic-memory
+# A model of semantic completion in generative episodic memory
 ## About this repo:
 
 This repo contains the code for the following paper: 
