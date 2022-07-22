@@ -9,3 +9,11 @@ Some of the pretrained model weights are also given to faciliate the results rep
 The notebooks are commented and should be easy to follow.
 
 Feel free to contact me if you have any questions / comments. Thank you very much in advance!
+
+## Getting started:
+This branch uses standalone Keras with a Tensorflow 1.14 backend.
+
+To get started, first install the required libraries inside a virtual environment:
+
+
+    pip install -r requirements.txt
