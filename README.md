@@ -11,7 +11,7 @@ The notebooks are commented and should be easy to follow.
 Feel free to contact me if you have any questions / comments. Thank you very much in advance!
 
 ## Getting started:
-This branch uses standalone Keras with a Tensorflow 1.14 backend.
+This branch uses Python 3.6 and standalone Keras with a Tensorflow 1.14 backend.
 
 To get started, first install the required libraries inside a virtual environment:
 
